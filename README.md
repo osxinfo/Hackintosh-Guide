@@ -1,4 +1,4 @@
-# Getting Started
+#Başlarken
 
 ## So You Want A Vanilla Install?
 
